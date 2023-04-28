@@ -5,6 +5,14 @@ Contains lessons this stage.
 Each lesson has its own secret number, which the teacher gives to students who have passed the previous lessons.
 
 The beginning of each lesson contains a piece of reading or a conversation that the student can read or listen to!
+Then the student can enter the second stage, which is the test, with the possibility of returning to listen or read the text again.
+
+After the test, the student can know the result of the test and know the correct answers from the wrong answers.
+
+Then move on to the review part, which is a group of important words to listen to how they are pronounced.
+
+The application contains a wide range of different exercises, such as listening texts, meanings of words, rearranging the letters of words, and pronouncing words.
+
 [Screenshot_1682670731](https://user-images.githubusercontent.com/49006734/235097743-3b7fb9c9-b1ef-4026-9d56-88a1ba299c87.png)
 ![Screenshot_1682670719](https://user-images.githubusercontent.com/49006734/235097763-f2a4c32a-362e-4102-a174-7ef442fcd058.png)
 ![Screenshot_1682670715](https://user-images.githubusercontent.com/49006734/235097772-08a7bcfb-98c2-4962-96b7-e228abb625df.png)
@@ -30,10 +38,4 @@ The beginning of each lesson contains a piece of reading or a conversation that 
 ![Screenshot_1682670154](https://user-images.githubusercontent.com/49006734/235097949-7565944e-b610-489a-8bf6-dc92bbb92691.png)
 ![Screenshot_1682670144](https://user-images.githubusercontent.com/49006734/235097957-2871f314-f37d-4a8b-9df8-d783974e32e1.png)
 
-Then the student can enter the second stage, which is the test, with the possibility of returning to listen or read the text again.
 
-After the test, the student can know the result of the test and know the correct answers from the wrong answers.
-
-Then move on to the review part, which is a group of important words to listen to how they are pronounced.
-
-The application contains a wide range of different exercises, such as listening texts, meanings of words, rearranging the letters of words, and pronouncing words.
